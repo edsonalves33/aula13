@@ -14,10 +14,6 @@ int main()
 
     comissao(&preco1, &preco2);
 
-    printf("\nPrecos com aumento de 10%%:\n");
-    printf("Preco 1: %.2f\n", preco1);
-    printf("Preco 2: %.2f\n", preco2);
-
     return 0;
 }
 
